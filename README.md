@@ -3,7 +3,7 @@ Analysis work in support of Kickstarter
 
 ### Another topic
 
-*Bullet 1
-*Bullet 2
-*Bullet 3
+* Bullet 1
+* Bullet 2
+* Bullet 3
 
